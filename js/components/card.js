@@ -1,8 +1,11 @@
 import React from 'react';
 
-export default function Card() {
+export default function Card(props) {
   const text = 'This is a Card';
   return (
-    <div className="card">{text}</div>
+    <div className="card">
+    	<div className="card-text"> {props.text} </div>
+    	
+    </div>
   );
 }

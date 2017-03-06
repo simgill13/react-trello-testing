@@ -1,0 +1,41 @@
+.card-img{
+
+	max-width: 300px;
+	max-height: 300px;
+}
+
+
+
+.card{
+	
+	padding: 20px;
+	max-width: 300px;
+	border-radius: 15px;
+	max-height: 300px;
+	margin: 10px;
+	/*display: inline-block;*/
+	background-color: #F1F2F2;
+
+}
+
+
+.card-list{
+	display: inline-block;
+	margin: 10px;
+	max-width: 400px;
+	border: .5px grey solid;
+	border-radius: 15px;
+	background-color: #4C5EA0;
+}
+
+
+
+.board {
+	background-color: #2E3840;
+	
+}
+
+
+.board h1 {
+	color: grey;
+}
