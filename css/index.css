@@ -7,7 +7,7 @@
 
 
 .card{
-	
+
 	padding: 20px;
 	max-width: 300px;
 	border-radius: 15px;
@@ -32,10 +32,14 @@
 
 .board {
 	background-color: #2E3840;
-	
+
 }
 
 
 .board h1 {
 	color: grey;
+}
+
+.highlight {
+	background-color: pink;
 }
